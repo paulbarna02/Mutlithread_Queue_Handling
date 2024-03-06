@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="225fc5ce-b1b1-4f27-8435-99ea6e03e7dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Arduino IDE.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD10.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD5.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD6.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD7.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD8.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BD9.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BDnotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN/ISSetupPrerequisites/{29AE0051-88F8-4ED7-A6F9-7EA37A6B11A3}/vc_redist.x86.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN/ISSetupPrerequisites/{915387C3-E260-4985-861D-E7A891A4F73B}/vc_redist.x64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN/setup.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN3.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN4.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CAN5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Capture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeBlocks.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Dialpad.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Document 3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Downloads - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ListaProceduriBD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MSI.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MSI2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/ATLANTIC-PACIFIC-INC-SETUP-2021-v2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/Adobe.Acrobat.Pro.DC.v2020.013.20074.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/Adobe.Acrobat.Pro.DC.v2020.013.20074.torrent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/Best Practices Broker-Carrier Agreement (1) (1) (1).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/Certificate (2).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/DiscordSetup.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/Silent Installation.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/Transalpina INC 2022.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Main Things To hold on/expressvpn_windows_10.17.0.28_release.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TemaBD.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../This PC - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../atlanticpacificinc.com - Chrome.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../log1.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NuHtOAojRwMF2UX6pl9mnkazpS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TP_Tema2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="225fc5ce-b1b1-4f27-8435-99ea6e03e7dd" name="Changes" comment="" />
+      <created>1680507263223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680507263223</updated>
+      <workItem from="1680507264531" duration="3365000" />
+      <workItem from="1681102965467" duration="5988000" />
+      <workItem from="1681753206628" duration="4313000" />
+      <workItem from="1681942634299" duration="23923000" />
+      <workItem from="1682180384018" duration="53225000" />
+      <workItem from="1682363688963" duration="62000" />
+      <workItem from="1682620202425" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
